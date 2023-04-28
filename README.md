@@ -41,6 +41,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition area |
 | --- | --- | --- | --- | --- | --- | --- |
+| [Sen4AgriNet](https://ieeexplore.ieee.org/abstract/document/9749916) | 2022 | Sentinel-2 | 10m to 60m | Weekly acquisition & Annual annotation | 168 | Catalonia & France |
 | [Campo Verde](https://ieeexplore.ieee.org/document/8263605) | 2018 | Landsat 8 + Sentinel-1 | 30m + 10m | Bi-monthly acquisition & annotation | 14 | Brazil |
 | [LEM](https://isprs-archives.copernicus.org/articles/XLII-1/387/2018/isprs-archives-XLII-1-387-2018.pdf) | 2018 | Landsat 8 + Sentinel-1 + Sentinel-2 | 30m + 10m + 10m | Bi-monthly (L8+S1) + weekly (S2) acquisition & Monthly annotation | 14 | Brazil |
 
