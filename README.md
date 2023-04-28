@@ -71,6 +71,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source                   | Spatial resolution | Temporal resolution | Number of classes | Acquisition area           |
 |--------------|------|--------------------------------|--------------------|---------------------|-------------------|----------------------------|
+| [SEN2DWATER](https://arxiv.org/abs/2301.07452) | 2023 | Sentinel-2 | 10m | Every 2 months | / | Italy & Spain |
 | [EarthNet2021](http://www.classic.grss-ieee.org/earthvision2021/papers/Requena-Mesa_EarthNet2021_A_Large-Scale_Dataset_and_Challenge_for_Earth_Surface_Forecasting_CVPRW_2021_paper.pdf) | 2021 | Sentinel-2 + mesodynamic models | 20m + 1,28km       | Weekly (S2) + daily | /                 | Europe                     |
 | [CloudCast](https://ieeexplore.ieee.org/abstract/document/9366908)     | 2021 | Meteosat Second Generation     | 3km                | 15min               | 11                | Europe                     |
 
