@@ -22,7 +22,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition area |
 | --- | --- | --- | --- | --- | --- | --- |
-| [MultiEarth 2022](https://arxiv.org/abs/2204.07649) | 2022 | Sentinel-1 + Sentinel-2 + Landsat 5 + Landsat 8 | 10m + 10m + 30m + 30m | Daily + weekly acquisitions depending on the source & Monthly annotation | 2 | Amazon |
+| [MultiEarth 2022](https://arxiv.org/abs/2204.07649) | 2022 | Sentinel-1 + Sentinel-2 + Landsat-5 + Landsat-8 | 10m + 10m + 30m + 30m | Daily + weekly acquisitions depending on the source & Monthly annotation | 2 | Amazon |
 | [Dynamic World](https://www.nature.com/articles/s41597-022-01307-4) | 2022 | Sentinel-2 | 10m | Weekly acquisition and weekly automatic annotation without human verification | 9 | Global |
 | [DynamicEarthNet](https://openaccess.thecvf.com/content/CVPR2022/html/Toker_DynamicEarthNet_Daily_Multi-Spectral_Satellite_Dataset_for_Semantic_Change_Segmentation_CVPR_2022_paper.html) | 2021 | Cloud-free fusion of images from various satellites | 3m | Daily acquisition & Monthly annotation | 7 | Global |
 | [SpaceNet 7](https://openaccess.thecvf.com/content/CVPR2021/html/Van_Etten_The_Multi-Temporal_Urban_Development_SpaceNet_Dataset_CVPR_2021_paper.html) | 2020 | PlanetScope | 4m | Monthly acquisition & annotation | 2 | Global |
@@ -35,15 +35,16 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [MultiSenGE](https://germain-forestier.info/publis/isprs2022.pdf) | 2022 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 14 | Eastern France |
 | [PASTIS](https://openaccess.thecvf.com/content/ICCV2021/html/Garnot_Panoptic_Segmentation_of_Satellite_Image_Time_Series_With_Convolutional_Temporal_ICCV_2021_paper.html) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 18 | France |
 | [PASTIS-R](https://www.sciencedirect.com/science/article/pii/S0924271622000855) | 2021 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 18 | France |
-| [TiSeLaC](https://sites.google.com/site/dinoienco/tiselac-time-series-land-cover-classification-challenge) | 2017 | Landsat 8 | 30m | Bi-monthly acquisition | 9 | Reunion Island |
+| [UTRNet](https://ieeexplore.ieee.org/document/9771449) | 2021 | Landsat-8 | 30m | Irregular acquisition | 2 | China |
+| [TiSeLaC](https://sites.google.com/site/dinoienco/tiselac-time-series-land-cover-classification-challenge) | 2017 | Landsat-8 | 30m | Bi-monthly acquisition | 9 | Reunion Island |
 
 ### Polygon annotations for each image
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition area |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Sen4AgriNet](https://ieeexplore.ieee.org/abstract/document/9749916) | 2022 | Sentinel-2 | 10m to 60m | Weekly acquisition & Annual annotation | 168 | Catalonia & France |
-| [Campo Verde](https://ieeexplore.ieee.org/document/8263605) | 2018 | Landsat 8 + Sentinel-1 | 30m + 10m | Bi-monthly acquisition & annotation | 14 | Brazil |
-| [LEM](https://isprs-archives.copernicus.org/articles/XLII-1/387/2018/isprs-archives-XLII-1-387-2018.pdf) | 2018 | Landsat 8 + Sentinel-1 + Sentinel-2 | 30m + 10m + 10m | Bi-monthly (L8+S1) + weekly (S2) acquisition & Monthly annotation | 14 | Brazil |
+| [Campo Verde](https://ieeexplore.ieee.org/document/8263605) | 2018 | Landsat-8 + Sentinel-1 | 30m + 10m | Bi-monthly acquisition & annotation | 14 | Brazil |
+| [LEM](https://isprs-archives.copernicus.org/articles/XLII-1/387/2018/isprs-archives-XLII-1-387-2018.pdf) | 2018 | Landsat-8 + Sentinel-1 + Sentinel-2 | 30m + 10m + 10m | Bi-monthly (L8+S1) + weekly (S2) acquisition & Monthly annotation | 14 | Brazil |
 
 ### Polygon annotations for each time series
 
