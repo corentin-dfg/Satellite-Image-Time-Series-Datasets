@@ -97,6 +97,11 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [Seasonal Contrast](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html) | 2021 | Pre-training task | Sentinel-2 | 10m | Seasonally acquisition | Global |
 
 ## Authors
-- [Corentin Dufourg](https://www.linkedin.com/in/corentin-dufourg/)
-- [Dr. Charlotte Pelletier](https://sites.google.com/site/charpelletier)
-- [Pr. Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/)
+The authors thank the French spatial agency (CNES) and the Brittany region / BreTel SIG for their financial support.
+- [Corentin Dufourg](https://www.linkedin.com/in/corentin-dufourg/)<sup>1</sup>
+- [Dr. Charlotte Pelletier](https://sites.google.com/site/charpelletier)<sup>1</sup>
+- Stéphane May<sup>2</sup>
+- [Pr. Sébastien Lefèvre](http://people.irisa.fr/Sebastien.Lefevre/)<sup>1</sup>
+
+<sup>1</sup>Université Bretagne Sud, IRISA, UMR CNRS 6074, Vannes, France  
+<sup>2</sup>Centre National d’Études Spatiales (CNES), Toulouse, France
