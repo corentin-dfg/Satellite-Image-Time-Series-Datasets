@@ -100,6 +100,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [SEN12MS-CR-TS](https://ieeexplore.ieee.org/abstract/document/9691348) | 2022 | Cloud removal | Sentinel-1 + Sentinel-2 | 10m + 10m | Bi-monthly (S1) + weekly (S2) acquisition | Global (2018) |
 | [AI4Boundaries](https://essd.copernicus.org/preprints/essd-2022-298/essd-2022-298.pdf) | 2022 | Field boundary detection | Sentinel-2 + aerial ortho-photo | 10m + 1m | Monthly acquisition & Yearly annotation | Europe (2019) |
 | [Seasonal Contrast](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html) | 2021 | Pre-training task | Sentinel-2 | 10m | Seasonally acquisition | Global |
+| [PROBA-V Super-Resolution](https://link.springer.com/article/10.1007/s42064-019-0059-8) | 2019 | Super-resolution | PROBA-V | 300m + 100m | Daily acquisition | Global |
 
 ## Authors
 The authors thank the French spatial agency (CNES) and the Brittany region / BreTel SIG for their financial support.
