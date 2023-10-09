@@ -94,6 +94,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Task | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [SSL4EO-S12](https://ieeexplore.ieee.org/document/10261879) | 2023 | Pre-training task | Sentinel-1 + Sentinel-2 | 5m + 10m | Seasonally acquisition | Global |
 | [SAT-MTB](https://ieeexplore.ieee.org/abstract/document/10130311) | 2023 | Detection, segmentation and object tracking | Jilin-1 | 1m | 10 frame per second | Cities |
 | [WorldStrat](https://openreview.net/forum?id=DEigo9L8xZA) | 2022 | Super-resolution | Spot-6 + Spot-7 + Sentinel-2 | 1,5m + 1,5m + 10m | Weekly (S2) acquisition | Global |
 | [Jilin-189](https://github.com/XY-boy/MSDTGP) | 2022 | Video super-resolution | Jilin-1 | 1m | 25 frame per second | Cities |
