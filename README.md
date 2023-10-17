@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 # Satellite Image Time Series Datasets
-This page presents a list of satellite imagery datasets with a temporal dimension, mainly satellite image time series (SITS) and satellite videos, for various computer vision and deep learning tasks. It covers multi-temporal datasets with more than two acquisitions but not bi-temporal datasets.
+This page presents a list of satellite imagery datasets with a temporal dimension, mainly satellite image time series (SITS) and satellite videos, for various computer vision and deep learning tasks. It covers multi-temporal datasets with more than two acquisitions but not bi-temporal datasets. We focus mainly on annotated datasets.
 
 <!-- omit in toc -->
 ## Table of Contents
