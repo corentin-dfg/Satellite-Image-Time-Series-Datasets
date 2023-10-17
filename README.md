@@ -104,7 +104,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [PROBA-V Super-Resolution](https://link.springer.com/article/10.1007/s42064-019-0059-8) | 2019 | Super-resolution | PROBA-V | 300m + 100m | Daily acquisition | Global |
 
 ## Authors
-The authors thank the French spatial agency (CNES) and the Brittany region / BreTel SIG for their financial support.
+The authors thank the French spatial agency (CNES) and the Brittany region for their financial support.
 - [Corentin Dufourg](https://www.linkedin.com/in/corentin-dufourg/)<sup>1</sup>
 - [Dr. Charlotte Pelletier](https://sites.google.com/site/charpelletier)<sup>1</sup>
 - Stéphane May<sup>2</sup>
