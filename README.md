@@ -84,6 +84,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [EarthNet2021](http://www.classic.grss-ieee.org/earthvision2021/papers/Requena-Mesa_EarthNet2021_A_Large-Scale_Dataset_and_Challenge_for_Earth_Surface_Forecasting_CVPRW_2021_paper.pdf) | 2021 | Sentinel-2 + mesodynamic models | 20m + 1,28km | Weekly (S2) + daily | / | Europe (2016-2020) |
 | [CloudCast](https://ieeexplore.ieee.org/abstract/document/9366908) | 2021 | Meteosat Second Generation | 3km | 15min | 11 | Europe (2017-2018) |
 | [MeteoNet](https://meteonet.umr-cnrm.fr/) | 2020 | Ground station observations, satellite images, rain radar observations, weather forecasting models and land-sea and relief masks | Variable | Variable | / | France (2016-2018) |
+| [SEVIR](https://proceedings.neurips.cc/paper/2020/hash/fa78a16157fed00d7a80515818432169-Abstract.html) | 2020 | GOES-16 + NEXRAD | 2km + 1km | 5min | / | USA (2017-2019)
 
 ## Object tracking
 
