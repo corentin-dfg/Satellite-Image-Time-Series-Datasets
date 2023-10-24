@@ -75,6 +75,9 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 ## Forecasting
 
+> [!NOTE]  
+> Here we list a few forecasting datasets, particularly for weather forecasting, but this list is by no means exhaustive. More weather forecasting datasets are listed [here](https://mldata.pangeo.io/index.html).
+
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 |---|---|---|---|---|---|---|
 | [SEN2DWATER](https://arxiv.org/abs/2301.07452) | 2023 | Sentinel-2 | 10m | Every 2 months | / | Italy & Spain (2020-2022) |
