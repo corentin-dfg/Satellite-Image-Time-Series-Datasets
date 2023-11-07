@@ -54,6 +54,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 |---|---|---|---|---|---|---|
+| [TimeMatch](https://www.sciencedirect.com/science/article/pii/S0924271622001216) | 2022 | Sentinel-2 | 10m | Weekly acquisition| 16 | Austria, Denmark, mid-west France, southern France (2017) |
 | [DENETHOR](https://openreview.net/pdf?id=uUa4jNMLjrL) | 2021 | Cloud-free fusion of images from various satellites | 3m                 | Daily acquisition | 10 | Germany (2018-2019) |
 | [EuroCrops](https://mediatum.ub.tum.de/doc/1616066/3z6cpijmuxa8qnbmyn0kjum6y.Schneider21_EPE.pdf) | 2021 | Sentinel-2 | / | Weekly acquisition | 43 | Europe (2015-2022) |
 | [TimeSen2Crop](https://ieeexplore.ieee.org/abstract/document/9408357) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 16 | Austria (2017-2018) |
@@ -108,6 +109,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | --- | --- | --- | --- | --- | --- | --- |
 | [SSL4EO-S12](https://ieeexplore.ieee.org/document/10261879) | 2023 | Pre-training task | Sentinel-1 + Sentinel-2 | 5m + 10m | Seasonally acquisition | Global |
 | [SAT-MTB](https://ieeexplore.ieee.org/abstract/document/10130311) | 2023 | Detection, segmentation and object tracking | Jilin-1 | 1m | 10 frame per second | Cities |
+| [TimeMatch](https://www.sciencedirect.com/science/article/pii/S0924271622001216) | 2022 | Domain adaptation | Sentinel-2 | 10m | Weekly acquisition| Austria, Denmark, mid-west France, southern France (2017) |
 | [WorldStrat](https://openreview.net/forum?id=DEigo9L8xZA) | 2022 | Super-resolution | Spot-6 + Spot-7 + Sentinel-2 | 1,5m + 1,5m + 10m | Weekly (S2) acquisition | Global |
 | [Jilin-189](https://github.com/XY-boy/MSDTGP) | 2022 | Video super-resolution | Jilin-1 | 1m | 25 frame per second | Cities |
 | [SEN12MS-CR-TS](https://ieeexplore.ieee.org/abstract/document/9691348) | 2022 | Cloud removal | Sentinel-1 + Sentinel-2 | 10m + 10m | Bi-monthly (S1) + weekly (S2) acquisition | Global (2018) |
