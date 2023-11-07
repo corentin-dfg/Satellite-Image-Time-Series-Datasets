@@ -10,6 +10,7 @@ This page presents a list of satellite imagery datasets with a temporal dimensio
   - [Polygon annotations for each image](#polygon-annotations-for-each-image)
   - [Polygon annotations for each time series](#polygon-annotations-for-each-time-series)
   - [Image annotations](#image-annotations)
+- [Regression](#regression)
 - [Forecasting](#forecasting)
 - [Object tracking](#object-tracking)
 - [Other tasks](#other-tasks)
