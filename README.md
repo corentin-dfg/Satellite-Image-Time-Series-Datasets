@@ -76,7 +76,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 ## Regression
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Acquisition |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [BioMassters]([https://arxiv.org/pdf/2305.14467.pdf](https://nascetti-a.github.io/BioMasster/)) | 2023 | Sentinel-1 + Sentinel-2 | 20m + 10m | monthly acquisition & Annual annotation | Finland (2016-2021) |
 
 ## Forecasting
@@ -86,6 +86,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 |---|---|---|---|---|---|---|
+| [Digital Typhoon](https://arxiv.org/abs/2311.02665) | 2023 | Himawari | 5km | 60min | / | Western North Pacific basin (1978-2022) |
 | [SEN2DWATER](https://arxiv.org/abs/2301.07452) | 2023 | Sentinel-2 | 10m | Every 2 months | / | Italy & Spain (2020-2022) |
 | [EarthNet2021](http://www.classic.grss-ieee.org/earthvision2021/papers/Requena-Mesa_EarthNet2021_A_Large-Scale_Dataset_and_Challenge_for_Earth_Surface_Forecasting_CVPRW_2021_paper.pdf) | 2021 | Sentinel-2 + mesodynamic models | 20m + 1,28km | Weekly (S2) + daily | / | Europe (2016-2020) |
 | [CloudCast](https://ieeexplore.ieee.org/abstract/document/9366908) | 2021 | Meteosat Second Generation | 3km | 15min | 11 | Europe (2017-2018) |
