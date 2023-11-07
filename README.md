@@ -73,6 +73,12 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [RapidAI4EO Corpus](https://rapidai4eo.source.coop/) | 2023 | PlanetFusion + Sentinel-2 | 3m + 10m | 5-days + monthly acquisition | 44 (multi-label) | Europe (2018-2019) |
 | [SEN12-FLOOD](https://isprs-archives.copernicus.org/articles/XLIII-B2-2020/1343/2020/isprs-archives-XLIII-B2-2020-1343-2020.pdf) | 2020 | Sentinel-1 + Sentinel-2 | 10m + 10m | Bi-monthly + weekly acquisition | 2 | African, Iranian and Australian cities (2018-2019) |
 
+## Regression
+
+| Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Acquisition |
+| --- | --- | --- | --- | --- | --- | --- |
+| [BioMassters]([https://arxiv.org/pdf/2305.14467.pdf](https://nascetti-a.github.io/BioMasster/)) | 2023 | Sentinel-1 + Sentinel-2 | 20m + 10m | monthly acquisition & Annual annotation | Finland (2016-2021) |
+
 ## Forecasting
 
 > [!NOTE]  
