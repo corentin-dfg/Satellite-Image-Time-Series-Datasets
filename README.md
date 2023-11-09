@@ -23,7 +23,8 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
-| [MultiEarth 2022](https://arxiv.org/abs/2204.07649) | 2022 | Sentinel-1 + Sentinel-2 + Landsat-5 + Landsat-8 | 10m + 10m + 30m + 30m | Daily + weekly acquisitions depending on the source & Monthly annotation | 2 | Amazon (2016-2021) |
+| [MultiEarth 2023](https://arxiv.org/abs/2306.04738) | 2023 | Sentinel-1 + Sentinel-2 + Landsat-5 + Landsat-8 | 10m + 10m + 30m + 30m | Weekly acquisitions depending on the source & Monthly annotation | 2 | Amazon (1984-2021) |
+| [MultiEarth 2022](https://arxiv.org/abs/2204.07649) | 2022 | Sentinel-1 + Sentinel-2 + Landsat-5 + Landsat-8 | 10m + 10m + 30m + 30m | Weekly acquisitions depending on the source & Monthly annotation | 2 | Amazon (1984-2021) |
 | [Dynamic World](https://www.nature.com/articles/s41597-022-01307-4) | 2022 | Sentinel-2 | 10m | Weekly acquisition and weekly automatic annotation without human verification | 9 | Global (2015-present) |
 | [DynamicEarthNet](https://openaccess.thecvf.com/content/CVPR2022/html/Toker_DynamicEarthNet_Daily_Multi-Spectral_Satellite_Dataset_for_Semantic_Change_Segmentation_CVPR_2022_paper.html) | 2021 | PlanetFusion | 3m | Daily acquisition & Monthly annotation | 7 | Global (2018-2019) |
 | [SpaceNet 7](https://openaccess.thecvf.com/content/CVPR2021/html/Van_Etten_The_Multi-Temporal_Urban_Development_SpaceNet_Dataset_CVPR_2021_paper.html) | 2020 | PlanetScope | 4m | Monthly acquisition & annotation | 2 | Global (2017-2020) |
@@ -79,7 +80,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- |
-| [BioMassters]([https://arxiv.org/pdf/2305.14467.pdf](https://nascetti-a.github.io/BioMasster/)) | 2023 | Sentinel-1 + Sentinel-2 | 20m + 10m | monthly acquisition & Annual annotation | Finland (2016-2021) |
+| [BioMassters]([https://arxiv.org/pdf/2305.14467.pdf](https://nascetti-a.github.io/BioMasster/)) | 2023 | Sentinel-1 + Sentinel-2 | 20m + 10m | Monthly acquisition & Annual annotation | Finland (2016-2021) |
 
 ## Forecasting
 
