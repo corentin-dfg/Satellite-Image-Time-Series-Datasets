@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Satellite Image Time Series Datasets
+message: 'If you use this work, consider citing it as below.'
+type: generic
+authors:
+  - given-names: Corentin
+    family-names: Dufourg
+    affiliation: >-
+      Université Bretagne Sud, IRISA, UMR CNRS 6074, Vannes,
+      France
+  - given-names: Charlotte
+    family-names: Pelletier
+    affiliation: >-
+      Université Bretagne Sud, IRISA, UMR CNRS 6074, Vannes,
+      France
+  - given-names: Stéphane
+    family-names: May
+    affiliation: >-
+      Centre National d’Études Spatiales (CNES), Toulouse,
+      France
+  - given-names: Sébastien
+    family-names: Lefèvre
+    affiliation: >-
+      Université Bretagne Sud, IRISA, UMR CNRS 6074, Vannes,
+      France
+url: >-
+  https://github.com/corentin-dfg/Satellite-Image-Time-Series-Datasets
