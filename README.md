@@ -14,7 +14,7 @@ This page presents a list of satellite imagery datasets with a temporal dimensio
 - [Forecasting](#forecasting)
 - [Object tracking](#object-tracking)
 - [Other tasks](#other-tasks)
-- [Authors](#authors)
+- [Citation](#citation)
 
 ## Semantic and Instance Segmentation
 Datasets are sorted by annotation granularity. We note that polygons annotations are reserved for crop-type identification tasks, while pixel annotations might be considered in more general tasks such as land cover mapping.
@@ -118,7 +118,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [Seasonal Contrast](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html) | 2021 | Pre-training task | Sentinel-2 | 10m | Seasonally acquisition | Global |
 | [PROBA-V Super-Resolution](https://link.springer.com/article/10.1007/s42064-019-0059-8) | 2019 | Super-resolution | PROBA-V | 300m + 100m | Daily acquisition | Global |
 
-## Authors
+## Citation
 The authors thank the French spatial agency (CNES) and the Brittany region for their financial support.
 - [Corentin Dufourg](https://www.linkedin.com/in/corentin-dufourg/)<sup>1</sup>
 - [Dr. Charlotte Pelletier](https://sites.google.com/site/charpelletier)<sup>1</sup>
@@ -127,3 +127,13 @@ The authors thank the French spatial agency (CNES) and the Brittany region for t
 
 <sup>1</sup>Université Bretagne Sud, IRISA, UMR CNRS 6074, Vannes, France  
 <sup>2</sup>Centre National d’Études Spatiales (CNES), Toulouse, France
+
+If you use this work, consider citing it as below.
+
+```latex
+@misc{dufourg2023sitsdatasets,
+ author = {Dufourg, Corentin and Pelletier, Charlotte and May, Stéphane and Lefèvre, Sébastien},
+ title = {Satellite Image Time Series Datasets},
+ howpublished = {\url{https://github.com/corentin-dfg/Satellite-Image-Time-Series-Datasets}} 
+}
+```
