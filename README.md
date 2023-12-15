@@ -34,7 +34,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
-| [FLAIR #2](https://arxiv.org/pdf/2305.14467.pdf) | 2023 | Sentinel-2 | 10m | weekly acquisition | 13 | France (1-year aquisition) |
+| [FLAIR #2](https://arxiv.org/pdf/2305.14467.pdf) | 2023 | Sentinel-2 | 10m | Weekly acquisition | 13 | France (1-year aquisition) |
 | [MultiSenGE](https://germain-forestier.info/publis/isprs2022.pdf) | 2022 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 14 | Eastern France (2019-2020) |
 | [PASTIS](https://openaccess.thecvf.com/content/ICCV2021/html/Garnot_Panoptic_Segmentation_of_Satellite_Image_Time_Series_With_Convolutional_Temporal_ICCV_2021_paper.html) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 18 | France (2018-2019) |
 | [PASTIS-R](https://www.sciencedirect.com/science/article/pii/S0924271622000855) | 2021 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 18 | France (2019) |
@@ -56,8 +56,9 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 |---|---|---|---|---|---|---|
+| [AgriSen-COG](https://www.mdpi.com/2072-4292/15/12/2980) | 2023 | Sentinel-2 | 10m | Weekly acquisition | 103 | Austria, Belgium, Spain, Denmark, Netherlands (2019-2020) |
 | [TimeMatch](https://www.sciencedirect.com/science/article/pii/S0924271622001216) | 2022 | Sentinel-2 | 10m | Weekly acquisition| 16 | Austria, Denmark, mid-west France, southern France (2017) |
-| [DENETHOR](https://openreview.net/pdf?id=uUa4jNMLjrL) | 2021 | Cloud-free fusion of images from various satellites | 3m                 | Daily acquisition | 10 | Germany (2018-2019) |
+| [DENETHOR](https://openreview.net/pdf?id=uUa4jNMLjrL) | 2021 | Cloud-free fusion of images from various satellites | 3m | Daily acquisition | 10 | Germany (2018-2019) |
 | [EuroCrops](https://mediatum.ub.tum.de/doc/1616066/3z6cpijmuxa8qnbmyn0kjum6y.Schneider21_EPE.pdf) | 2021 | Sentinel-2 | / | Weekly acquisition | 43 | Europe (2015-2022) |
 | [TimeSen2Crop](https://ieeexplore.ieee.org/abstract/document/9408357) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 16 | Austria (2017-2018) |
 | [Canadian Cropland](https://openreview.net/pdf/3b9f82b0ce8f1e195c4c20df9637afd8ed9ea339.pdf) | 2021 | Sentinel-2 | 10m | Monthly acquisition | 10 | Canada (2019) |
