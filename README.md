@@ -84,6 +84,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- |
+| [CropNet](https://openreview.net/forum?id=lzpHNyhIbr) | 2024 | Sentinel-2 + WRF-HRRR | 9km + 9km | 14d + 1d & Annual annotation | USA (2017-2022) |
 | [SICKLE](https://arxiv.org/pdf/2312.00069.pdf) | 2024 | Landsat-8 + Sentinel-1 + Sentinel-2 | 30m + 3m + 10m | Bi-monthly + 12d + weekly acquistion | India (2018-2021) |
 | [BioMassters](https://nascetti-a.github.io/BioMasster/) | 2023 | Sentinel-1 + Sentinel-2 | 20m + 10m | Monthly acquisition & Annual annotation | Finland (2016-2021) |
 
