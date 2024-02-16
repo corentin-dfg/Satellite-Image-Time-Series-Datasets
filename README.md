@@ -105,6 +105,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [TMS](https://arxiv.org/abs/2402.00703) | 2024 | Jilin-1 + SkySat + Synthetic | 1m | 1 frame per second | 1 | Cities |
 | [AIR-MOT](https://ieeexplore.ieee.org/document/9715124) | 2022 | Jilin-1 | 1m | 5 to 10 frame per second | 2 | Cities |
 | [VISO](https://ieeexplore.ieee.org/abstract/document/9625976) | 2021 | Jilin-1 | 1m | 10 frame per second | 4 | Cities |
 | [SatSOT](https://ieeexplore.ieee.org/document/9672083) | 2021 | Jilin-1 + SkySat + Carbonite-2 | 1m | 10 to 25 frame per second | 4 | Cities |
