@@ -117,6 +117,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Task | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [SSL4EO-L](https://arxiv.org/abs/2306.09424) | 2023 | Pre-training task | LandSat-4,5,7,8,9 | 30m | Seasonally acquisition | Global |
 | [SSL4EO-S12](https://ieeexplore.ieee.org/document/10261879) | 2023 | Pre-training task | Sentinel-1 + Sentinel-2 | 5m + 10m | Seasonally acquisition | Global |
 | [SAT-MTB](https://ieeexplore.ieee.org/abstract/document/10130311) | 2023 | Detection, segmentation and object tracking | Jilin-1 | 1m | 10 frame per second | Cities |
 | [TimeMatch](https://www.sciencedirect.com/science/article/pii/S0924271622001216) | 2022 | Domain adaptation | Sentinel-2 | 10m | Weekly acquisition| Austria, Denmark, mid-west France, southern France (2017) |
