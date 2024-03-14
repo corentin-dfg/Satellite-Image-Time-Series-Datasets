@@ -79,8 +79,9 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | --- | --- | --- | --- | --- | --- | --- |
 | [TreeSatAI-Time-Series](https://huggingface.co/datasets/IGNF/TreeSatAI-Time-Series) | 2024 | Sentinel-1 + Sentinel-2 | 10m + 10m | Weekly acquisition | 20 | Germany (2017-2020) |
 | [RapidAI4EO Corpus](https://rapidai4eo.source.coop/) | 2023 | PlanetFusion + Sentinel-2 | 3m + 10m | 5-days + monthly acquisition | 44 (multi-label) | Europe (2018-2019) |
+| [fMoW-Sentinel](https://proceedings.neurips.cc/paper_files/paper/2022/hash/01c561df365429f33fcd7a7faa44c985-Abstract-Conference.html) | 2022 | Sentinel-2 | 10m | Irregular acquisition | 63 | Global (2015-2019) |
 | [SEN12-FLOOD](https://isprs-archives.copernicus.org/articles/XLIII-B2-2020/1343/2020/isprs-archives-XLIII-B2-2020-1343-2020.pdf) | 2020 | Sentinel-1 + Sentinel-2 | 10m + 10m | Bi-monthly + weekly acquisition | 2 | African, Iranian and Australian cities (2018-2019) |
-| [fMoW](https://openaccess.thecvf.com/content_cvpr_2018/html/Christie_Functional_Map_of_CVPR_2018_paper.html) | 2018 | DigitalGlobe constellation | multiple resolutions (0.3m to 3.7m) | Irregular acquisition | 63 | Global (2002-2017) |
+| [fMoW-RGB](https://openaccess.thecvf.com/content_cvpr_2018/html/Christie_Functional_Map_of_CVPR_2018_paper.html) | 2018 | DigitalGlobe constellation | multiple resolutions (0.3m to 3.7m) | Irregular acquisition | 63 | Global (2002-2017) |
 
 ## Regression
 
