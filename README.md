@@ -98,6 +98,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 |---|---|---|---|---|---|---|
+| [SeasFire](https://arxiv.org/abs/2312.07199) | 2023 | ERA5, MODIS, ... | 27km | 8d | / | Global (2001-2021) |
 | [Digital Typhoon](https://arxiv.org/abs/2311.02665) | 2023 | Himawari | 5km | 60min | / | Western North Pacific basin (1978-2022) |
 | [SEN2DWATER](https://arxiv.org/abs/2301.07452) | 2023 | Sentinel-2 | 10m | Every 2 months | / | Italy & Spain (2020-2022) |
 | [EarthNet2021](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Requena-Mesa_EarthNet2021_A_Large-Scale_Dataset_and_Challenge_for_Earth_Surface_Forecasting_CVPRW_2021_paper.html) | 2021 | Sentinel-2 + mesodynamic models | 20m + 1,28km | Weekly (S2) + daily | / | Europe (2016-2020) |
