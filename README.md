@@ -87,6 +87,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- |
+| [Multi-Modal Satellite Imagery Dataset](https://www.nature.com/articles/s41597-024-03366-1) | 2024 | Sentinel-2 + Multilabel metadata | 10m + municipality-level | Weekly (S2) acquisition | Colombia (S2: 2016-2018, metadata: 2007-2019) |
 | [CropNet](https://openreview.net/forum?id=lzpHNyhIbr) | 2024 | Sentinel-2 + WRF-HRRR | 9km + 9km | 14d + 1d & Annual annotation | USA (2017-2022) |
 | [SICKLE](https://arxiv.org/pdf/2312.00069.pdf) | 2024 | Landsat-8 + Sentinel-1 + Sentinel-2 | 30m + 3m + 10m | Bi-monthly + 12d + weekly acquistion | India (2018-2021) |
 | [BioMassters](https://nascetti-a.github.io/BioMasster/) | 2023 | Sentinel-1 + Sentinel-2 | 20m + 10m | Monthly acquisition & Annual annotation | Finland (2016-2021) |
@@ -98,6 +99,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 |---|---|---|---|---|---|---|
+| [GreenEarthNet](https://openaccess.thecvf.com/content/CVPR2024/html/Benson_Multi-modal_Learning_for_Geospatial_Vegetation_Forecasting_CVPR_2024_paper.html) | 2024 | Sentinel-2 + meteorological observations | 20m | Weekly (S2) + daily | / | Europe (2017-2022) |
 | [SeasFire](https://arxiv.org/abs/2312.07199) | 2023 | ERA5, MODIS, ... | 27km | 8d | / | Global (2001-2021) |
 | [Digital Typhoon](https://arxiv.org/abs/2311.02665) | 2023 | Himawari | 5km | 60min | / | Western North Pacific basin (1978-2022) |
 | [SEN2DWATER](https://arxiv.org/abs/2301.07452) | 2023 | Sentinel-2 | 10m | Every 2 months | / | Italy & Spain (2020-2022) |
@@ -119,6 +121,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Task | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [BreizhSR](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Okabayashi_Cross-sensor_super-resolution_of_irregularly_sampled_Sentinel-2_time_series_CVPRW_2024_paper.html) | 2024 | Super-resolution | Sentinel-2 + SPOT-6/7 | 10m + 2.5m | Weekly (S2) acquisition | Brittany France (2018) |
 | [SSL4EO-L](https://arxiv.org/abs/2306.09424) | 2023 | Pre-training task | LandSat-4,5,7,8,9 | 30m | Seasonally acquisition | Global |
 | [SSL4EO-S12](https://ieeexplore.ieee.org/document/10261879) | 2023 | Pre-training task | Sentinel-1 + Sentinel-2 | 5m + 10m | Seasonally acquisition | Global |
 | [SAT-MTB](https://ieeexplore.ieee.org/abstract/document/10130311) | 2023 | Detection, segmentation and object tracking | Jilin-1 | 1m | 10 frame per second | Cities |
