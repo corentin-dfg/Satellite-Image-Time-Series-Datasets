@@ -9,7 +9,8 @@ This page presents a list of satellite imagery datasets with a temporal dimensio
   - [Pixel annotations for each time series](#pixel-annotations-for-each-time-series)
   - [Polygon annotations for each image](#polygon-annotations-for-each-image)
   - [Polygon annotations for each time series](#polygon-annotations-for-each-time-series)
-  - [Image annotations](#image-annotations)
+  - [Image-level annotations](#image-level-annotations)
+  - [Datacube-level annotations](#datacube-level-annotations)
 - [Regression](#regression)
 - [Forecasting](#forecasting)
 - [Object tracking](#object-tracking)
@@ -73,15 +74,21 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [CV4A Kenya](https://arxiv.org/abs/2004.03023) | 2020 | Sentinel-2 | 10m | Bi-monthly acquisition | 7 | Kenya (2019) |
 | [Pixel-Set dataset](https://openaccess.thecvf.com/content_CVPR_2020/html/Garnot_Satellite_Image_Time_Series_Classification_With_Pixel-Set_Encoders_and_Temporal_CVPR_2020_paper.html) | 2020 | Sentinel-2 | 10m | Weekly acquisition | 20 | France (2017) |
 
-### Image annotations
+### Image-level annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
-| [TreeSatAI-Time-Series](https://huggingface.co/datasets/IGNF/TreeSatAI-Time-Series) | 2024 | Sentinel-1 + Sentinel-2 | 10m + 10m | Weekly acquisition | 20 | Germany (2017-2020) |
-| [RapidAI4EO Corpus](https://rapidai4eo.source.coop/) | 2023 | PlanetFusion + Sentinel-2 | 3m + 10m | 5-days + monthly acquisition | 44 (multi-label) | Europe (2018-2019) |
 | [fMoW-Sentinel](https://proceedings.neurips.cc/paper_files/paper/2022/hash/01c561df365429f33fcd7a7faa44c985-Abstract-Conference.html) | 2022 | Sentinel-2 | 10m | Irregular acquisition | 63 | Global (2015-2019) |
 | [SEN12-FLOOD](https://isprs-archives.copernicus.org/articles/XLIII-B2-2020/1343/2020/isprs-archives-XLIII-B2-2020-1343-2020.pdf) | 2020 | Sentinel-1 + Sentinel-2 | 10m + 10m | Bi-monthly + weekly acquisition | 2 | African, Iranian and Australian cities (2018-2019) |
 | [fMoW-RGB](https://openaccess.thecvf.com/content_cvpr_2018/html/Christie_Functional_Map_of_CVPR_2018_paper.html) | 2018 | DigitalGlobe constellation | multiple resolutions (0.3m to 3.7m) | Irregular acquisition | 63 | Global (2002-2017) |
+
+### Datacube-level annotations
+
+| Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Planted](https://arxiv.org/abs/2406.18554) | 2024 | Sentinel-1 + Sentinel-2 + Lansat-7 + ALOS-2 + MODIS | 10m (S1+S2) + 30m (L7+A2) + 250m (M) | Seasonal (S1+S2+L7) yearly (A2) and monthly (M) acquisitions | 64 | Global (2013-2017) |
+| [TreeSatAI-Time-Series](https://huggingface.co/datasets/IGNF/TreeSatAI-Time-Series) | 2024 | Sentinel-1 + Sentinel-2 | 10m + 10m | Weekly acquisition | 20 | Germany (2017-2020) |
+| [RapidAI4EO Corpus](https://rapidai4eo.source.coop/) | 2023 | PlanetFusion + Sentinel-2 | 3m + 10m | 5-days + monthly acquisition | 44 (multi-label) | Europe (2018-2019) |
 
 ## Regression
 
