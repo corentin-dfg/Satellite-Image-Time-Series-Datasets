@@ -95,6 +95,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- |
+| [Wald5Dplus](https://zenodo.org/records/10848838)/[Forest5Dplus](https://ieeexplore.ieee.org/document/10282042) | 2024 | Sentinel-1 + Sentinel-2 | 10m | Weekly acquisition | Germany (2020-2021) |
 | [Multi-Modal Satellite Imagery Dataset](https://www.nature.com/articles/s41597-024-03366-1) | 2024 | Sentinel-2 + Multilabel metadata | 10m + municipality-level | Weekly (S2) acquisition | Colombia (S2: 2016-2018, metadata: 2007-2019) |
 | [CropNet](https://openreview.net/forum?id=lzpHNyhIbr) | 2024 | Sentinel-2 + WRF-HRRR | 9km + 9km | 14d + 1d & Annual annotation | USA (2017-2022) |
 | [SICKLE](https://arxiv.org/pdf/2312.00069.pdf) | 2024 | Landsat-8 + Sentinel-1 + Sentinel-2 | 30m + 3m + 10m | Bi-monthly + 12d + weekly acquistion | India (2018-2021) |
