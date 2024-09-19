@@ -35,6 +35,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [DAFA-LS](https://arxiv.org/abs/2409.09432) | 2024 | Planet | 3m | Monthly acquisition | 2 | Afghanistan (2016-2023) |
 | [BraDD-S1TS](https://isprs-annals.copernicus.org/articles/X-1-W1-2023/835/2023/) | 2023 | Sentinel-1 | 10m | Weekly acquisition | 2 | Brazil (2020-2021) |
 | [FLAIR #2](https://arxiv.org/pdf/2305.14467.pdf) | 2023 | Sentinel-2 | 10m | Weekly acquisition | 13 | France (1-year aquisition) |
 | [MultiSenGE](https://germain-forestier.info/publis/isprs2022.pdf) | 2022 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 14 | Eastern France (2019-2020) |
@@ -53,6 +54,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [Deep Crop Rotation](https://www.mdpi.com/2072-4292/13/22/4599) | 2021 | Sentinel-2 | 10m | Weekly acquisition & Annual annotation | 10 | France (2018-2020) |
 | [Campo Verde](https://ieeexplore.ieee.org/document/8263605) | 2018 | Landsat-8 + Sentinel-1 | 30m + 10m | Bi-monthly acquisition & annotation | 14 | Brazil (2015-2016) |
 | [LEM](https://isprs-archives.copernicus.org/articles/XLII-1/387/2018/isprs-archives-XLII-1-387-2018.pdf) | 2018 | Landsat-8 + Sentinel-1 + Sentinel-2 | 30m + 10m + 10m | Bi-monthly (L8+S1) + weekly (S2) acquisition & Monthly annotation | 14 | Brazil (2017-2018) |
+| [MTLCC](https://www.mdpi.com/2220-9964/7/4/129) | 2018 | Sentinel-2 | 10m | Weekly acquisition & Annual annotation | 17 | Munich, Germany (2016-2017) |
 
 ### Polygon annotations for each time series
 
