@@ -35,13 +35,15 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [CropRot](https://arxiv.org/abs/2407.08448) | 2024 | Sentinel-2 | 10m | Weekly acquisitions | 2 | France (2019-2020) |
+| [PASTIS-HD](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24) | 2024 | Sentinel-1 + Sentinel-2 + SPOT6-7 | 5m + 10m + 1.5m | Weekly + weekly + single acquisitions | 18 | France (2019) |
 | [MultiSenNA](https://doi.org/10.25577/563Q-QD29) | 2024 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 14 | Southwestern France (2019-2020) |
 | [DAFA-LS](https://arxiv.org/abs/2409.09432) | 2024 | Planet | 3m | Monthly acquisition | 2 | Afghanistan (2016-2023) |
 | [BraDD-S1TS](https://isprs-annals.copernicus.org/articles/X-1-W1-2023/835/2023/) | 2023 | Sentinel-1 | 10m | Weekly acquisition | 2 | Brazil (2020-2021) |
 | [FLAIR #2](https://arxiv.org/pdf/2305.14467.pdf) | 2023 | Sentinel-2 | 10m | Weekly acquisition | 13 | France (1-year aquisition) |
 | [MultiSenGE](https://germain-forestier.info/publis/isprs2022.pdf) | 2022 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 14 | Eastern France (2019-2020) |
-| [PASTIS](https://openaccess.thecvf.com/content/ICCV2021/html/Garnot_Panoptic_Segmentation_of_Satellite_Image_Time_Series_With_Convolutional_Temporal_ICCV_2021_paper.html) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 18 | France (2018-2019) |
 | [PASTIS-R](https://www.sciencedirect.com/science/article/pii/S0924271622000855) | 2021 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 18 | France (2019) |
+| [PASTIS](https://openaccess.thecvf.com/content/ICCV2021/html/Garnot_Panoptic_Segmentation_of_Satellite_Image_Time_Series_With_Convolutional_Temporal_ICCV_2021_paper.html) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 18 | France (2018-2019) |
 | [AI4EO Enhanced Sentinel 2 Agriculture](https://platform.ai4eo.eu/enhanced-sentinel2-agriculture-permanent) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 2 | Slovenia (2019) |
 | [UTRNet](https://ieeexplore.ieee.org/document/9771449) | 2021 | Landsat-8 | 30m | Irregular acquisition | 2 | China (2013-2021) |
 | [MTLCC](https://www.mdpi.com/2220-9964/7/4/129) | 2018 | Sentinel-2 | 10m | Weekly acquisition & Annual annotation for 2016 and 2017 | 17 | Munich, Germany (2016-2017) |
@@ -91,7 +93,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | --- | --- | --- | --- | --- | --- | --- |
 | [Sen4Map](https://ieeexplore.ieee.org/document/10613375) | 2024 | Sentinel-2 | 10m + 20m | Weekly acquisition | 119 | Europe (2018) |
 | [Planted](https://arxiv.org/abs/2406.18554) | 2024 | Sentinel-1 + Sentinel-2 + Lansat-7 + ALOS-2 + MODIS | 10m (S1+S2) + 30m (L7+A2) + 250m (M) | Seasonal (S1+S2+L7) yearly (A2) and monthly (M) acquisitions | 64 | Global (2013-2017) |
-| [TreeSatAI-Time-Series](https://huggingface.co/datasets/IGNF/TreeSatAI-Time-Series) | 2024 | Sentinel-1 + Sentinel-2 | 10m + 10m | Weekly acquisition | 20 | Germany (2017-2020) |
+| [TreeSatAI-Time-Series](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24) | 2024 | Sentinel-1 + Sentinel-2 | 10m + 10m | Weekly acquisition | 20 | Germany (2017-2020) |
 | [RapidAI4EO Corpus](https://rapidai4eo.source.coop/) | 2023 | PlanetFusion + Sentinel-2 | 3m + 10m | 5-days + monthly acquisition | 44 (multi-label) | Europe (2018-2019) |
 
 ## Regression
