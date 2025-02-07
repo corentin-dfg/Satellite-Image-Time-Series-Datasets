@@ -36,6 +36,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [CONUS](https://zenodo.org/records/14715402) | 2025 | Harmonized Landsat and Sentinel-2 (HLS) | 30m | 2 days | 50 | USA (2013-2023) |
 | [FUSU](https://openreview.net/forum?id=QLO0pXYKVi) | 2024 | GoogleEarth + Sentinel-1 + Sentinel-2 | 0.3m + 10m + 10m | Bi-temporal + monthly + monthly acquisitions | 17 | China (2018-2020) |
 | [CropRot](https://arxiv.org/abs/2407.08448) | 2024 | Sentinel-2 | 10m | Weekly acquisitions | 2 | France (2019-2020) |
 | [PASTIS-HD](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24) | 2024 | Sentinel-1 + Sentinel-2 + SPOT6-7 | 5m + 10m + 1.5m | Weekly + weekly + single acquisitions | 18 | France (2019) |
