@@ -139,6 +139,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Task | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [SSL4EO-S12 v1.1](https://www.arxiv.org/abs/2503.00168) | 2025 | Pre-training task | Sentinel-1 + Sentinel-2 | 10m + 10m | Seasonally acquisition | Global |
 | [BreizhSR](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Okabayashi_Cross-sensor_super-resolution_of_irregularly_sampled_Sentinel-2_time_series_CVPRW_2024_paper.html) | 2024 | Super-resolution | Sentinel-2 + SPOT-6/7 | 10m + 2.5m | Weekly (S2) acquisition | Brittany France (2018) |
 | [SSL4EO-L](https://arxiv.org/abs/2306.09424) | 2023 | Pre-training task | LandSat-4,5,7,8,9 | 30m | Seasonally acquisition | Global |
 | [SSL4EO-S12](https://ieeexplore.ieee.org/document/10261879) | 2023 | Pre-training task | Sentinel-1 + Sentinel-2 | 5m + 10m | Seasonally acquisition | Global |
