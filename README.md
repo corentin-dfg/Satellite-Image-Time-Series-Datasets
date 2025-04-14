@@ -94,10 +94,11 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
+| [OPTIMUS](https://ieeexplore.ieee.org/abstract/document/10943941) | 2025 | Sentinel-2 | 10m | 2-month acquisitions | 2 | Global (2016-2023) |
 | [Sen4Map](https://ieeexplore.ieee.org/document/10613375) | 2024 | Sentinel-2 | 10m + 20m | Weekly acquisition | 119 | Europe (2018) |
 | [Planted](https://arxiv.org/abs/2406.18554) | 2024 | Sentinel-1 + Sentinel-2 + Lansat-7 + ALOS-2 + MODIS | 10m (S1+S2) + 30m (L7+A2) + 250m (M) | Seasonal (S1+S2+L7) yearly (A2) and monthly (M) acquisitions | 64 | Global (2013-2017) |
 | [TreeSatAI-Time-Series](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24) | 2024 | Sentinel-1 + Sentinel-2 | 10m + 10m | Weekly acquisition | 20 | Germany (2017-2020) |
-| [RapidAI4EO Corpus](https://rapidai4eo.source.coop/) | 2023 | PlanetFusion + Sentinel-2 | 3m + 10m | 5-days + monthly acquisition | 44 (multi-label) | Europe (2018-2019) |
+| [RapidAI4EO Corpus](https://rapidai4eo.source.coop/) | 2023 | PlanetFusion + Sentinel-2 | 3m + 10m | 5-day + monthly acquisition | 44 (multi-label) | Europe (2018-2019) |
 
 ## Regression
 
