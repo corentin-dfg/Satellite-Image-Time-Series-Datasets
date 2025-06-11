@@ -172,6 +172,7 @@ If you use this work, consider citing it as below.
 @misc{dufourg2023sitsdatasets,
  author = {Dufourg, Corentin and Pelletier, Charlotte and May, Stéphane and Lefèvre, Sébastien},
  title = {Satellite Image Time Series Datasets},
- howpublished = {\url{https://github.com/corentin-dfg/Satellite-Image-Time-Series-Datasets}} 
+ url = {https://github.com/corentin-dfg/Satellite-Image-Time-Series-Datasets},
+ year = {2023} 
 }
 ```
