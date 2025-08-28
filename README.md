@@ -49,10 +49,9 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [MultiSenGE](https://germain-forestier.info/publis/isprs2022.pdf) | 2022 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 14 | Eastern France (2019-2020) |
 | [PASTIS-R](https://www.sciencedirect.com/science/article/pii/S0924271622000855) | 2021 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 18 | France (2019) |
 | [PASTIS](https://openaccess.thecvf.com/content/ICCV2021/html/Garnot_Panoptic_Segmentation_of_Satellite_Image_Time_Series_With_Convolutional_Temporal_ICCV_2021_paper.html) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 18 | France (2018-2019) |
-| [AI4EO Enhanced Sentinel 2 Agriculture](https://platform.ai4eo.eu/enhanced-sentinel2-agriculture-permanent) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 2 | Slovenia (2019) |
 | [UTRNet](https://ieeexplore.ieee.org/document/9771449) | 2021 | Landsat-8 | 30m | Irregular acquisition | 2 | China (2013-2021) |
 | [MTLCC](https://www.mdpi.com/2220-9964/7/4/129) | 2018 | Sentinel-2 | 10m | Weekly acquisition & Annual annotation for 2016 and 2017 | 17 | Munich, Germany (2016-2017) |
-| [TiSeLaC](https://sites.google.com/site/dinoienco/tiselac-time-series-land-cover-classification-challenge) | 2017 | Landsat-8 | 30m | Bi-monthly acquisition | 9 | Reunion Island, France (2014) |
+| [TiSeLaC](https://huggingface.co/datasets/monster-monash/Tiselac) | 2017 | Landsat-8 | 30m | Bi-monthly acquisition | 9 | Reunion Island, France (2014) |
 
 ### Polygon annotations for each image
 
