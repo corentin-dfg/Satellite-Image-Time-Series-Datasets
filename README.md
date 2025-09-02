@@ -36,7 +36,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Image source | Spatial resolution | Temporal resolution | Number of classes | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
-| [FLAIR-HUB](https://arxiv.org/abs/2506.07080) | 2025 | Aerial + DEM + SPOT6-7 + Sentinel-2 + Sentinel-1 | 20cm + 1m + 1.6m + 10m + 10m | Mono-temporal and weekly acquisitions | 19 + 23 | France (?) |
+| [FLAIR-HUB](https://arxiv.org/abs/2506.07080) | 2025 | Aerial + DEM + SPOT6-7 + Sentinel-2 + Sentinel-1 | 20cm + 1m + 1.6m + 10m + 10m | Mono-temporal and weekly acquisitions | 19 + 23 | France (2018-2021) |
 | [ForTy](https://arxiv.org/abs/2505.01805) | 2025 | Sentinel-1 + Sentinel-2 + Climate + Elevation | 10m + 10m + 4km + 30m | Seasonal acquisitions | 8 | Global (2018-2020) |
 | [CONUS](https://zenodo.org/records/14715402) | 2025 | Harmonized Landsat and Sentinel-2 (HLS) | 30m | 2 days | 50 | USA (2013-2023) |
 | [FUSU](https://openreview.net/forum?id=QLO0pXYKVi) | 2024 | GoogleEarth + Sentinel-1 + Sentinel-2 | 0.3m + 10m + 10m | Bi-temporal + monthly + monthly acquisitions | 17 | China (2018-2020) |
@@ -45,7 +45,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [MultiSenNA](https://doi.org/10.25577/563Q-QD29) | 2024 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 14 | Southwestern France (2019-2020) |
 | [DAFA-LS](https://arxiv.org/abs/2409.09432) | 2024 | Planet | 3m | Monthly acquisition | 2 | Afghanistan (2016-2023) |
 | [BraDD-S1TS](https://isprs-annals.copernicus.org/articles/X-1-W1-2023/835/2023/) | 2023 | Sentinel-1 | 10m | Weekly acquisition | 2 | Brazil (2020-2021) |
-| [FLAIR #2](https://arxiv.org/pdf/2305.14467.pdf) | 2023 | Sentinel-2 | 10m | Weekly acquisition | 13 | France (1-year aquisition) |
+| [FLAIR #2](https://arxiv.org/pdf/2305.14467.pdf) | 2023 | Sentinel-2 | 10m | Weekly acquisition | 13 | France (2018-2021) |
 | [MultiSenGE](https://germain-forestier.info/publis/isprs2022.pdf) | 2022 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 14 | Eastern France (2019-2020) |
 | [PASTIS-R](https://www.sciencedirect.com/science/article/pii/S0924271622000855) | 2021 | Sentinel-1 + Sentinel-2 | 5m + 10m | Daily + weekly acquisition | 18 | France (2019) |
 | [PASTIS](https://openaccess.thecvf.com/content/ICCV2021/html/Garnot_Panoptic_Segmentation_of_Satellite_Image_Time_Series_With_Convolutional_Temporal_ICCV_2021_paper.html) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 18 | France (2018-2019) |
@@ -142,19 +142,19 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 
 | Dataset name | Year | Task | Image source | Spatial resolution | Temporal resolution | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SSL4EO-S12 v1.1](https://www.arxiv.org/abs/2503.00168) | 2025 | Pre-training task | Sentinel-1 + Sentinel-2 | 10m + 10m | Seasonally acquisition | Global |
+| [SSL4EO-S12 v1.1](https://www.arxiv.org/abs/2503.00168) | 2025 | Pre-training task | Sentinel-1 + Sentinel-2 | 10m + 10m | Seasonally acquisition | Global (2019-2021) |
 | [BreizhSR](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Okabayashi_Cross-sensor_super-resolution_of_irregularly_sampled_Sentinel-2_time_series_CVPRW_2024_paper.html) | 2024 | Super-resolution | Sentinel-2 + SPOT-6/7 | 10m + 2.5m | Weekly (S2) acquisition | Brittany France (2018) |
-| [SSL4EO-L](https://arxiv.org/abs/2306.09424) | 2023 | Pre-training task | LandSat-4,5,7,8,9 | 30m | Seasonally acquisition | Global |
-| [SSL4EO-S12](https://ieeexplore.ieee.org/document/10261879) | 2023 | Pre-training task | Sentinel-1 + Sentinel-2 | 5m + 10m | Seasonally acquisition | Global |
+| [SSL4EO-L](https://arxiv.org/abs/2306.09424) | 2023 | Pre-training task | LandSat-4,5,7,8,9 | 30m | Seasonally acquisition | Global (2001-2002 + 2009-2010 + 2021-2022) |
+| [SSL4EO-S12](https://ieeexplore.ieee.org/document/10261879) | 2023 | Pre-training task | Sentinel-1 + Sentinel-2 | 5m + 10m | Seasonally acquisition | Global (2021) |
 | [SAT-MTB](https://ieeexplore.ieee.org/abstract/document/10130311) | 2023 | Detection, segmentation and object tracking | Jilin-1 | 1m | 10 frame per second | Cities |
 | [TimeMatch](https://www.sciencedirect.com/science/article/pii/S0924271622001216) | 2022 | Domain adaptation | Sentinel-2 | 10m | Weekly acquisition| Austria, Denmark, mid-west France, southern France (2017) |
-| [WorldStrat](https://openreview.net/forum?id=DEigo9L8xZA) | 2022 | Super-resolution | Spot-6 + Spot-7 + Sentinel-2 | 1,5m + 1,5m + 10m | Weekly (S2) acquisition | Global |
+| [WorldStrat](https://openreview.net/forum?id=DEigo9L8xZA) | 2022 | Super-resolution | Spot-6 + Spot-7 + Sentinel-2 | 1,5m + 1,5m + 10m | Weekly (S2) acquisition | Global (2017-2019) |
 | [Jilin-189](https://github.com/XY-boy/MSDTGP) | 2022 | Video super-resolution | Jilin-1 | 1m | 25 frame per second | Cities |
 | [SEN12MS-CR-TS](https://ieeexplore.ieee.org/abstract/document/9691348) | 2022 | Cloud removal | Sentinel-1 + Sentinel-2 | 10m + 10m | Bi-monthly (S1) + weekly (S2) acquisition | Global (2018) |
 | [NASA Harvest](https://zindi.africa/competitions/nasa-harvest-field-boundary-detection-challenge) | 2022 | Field Boundary Detection | PlanetScope | 3.7m | Monthly acquisition & Time-independant annotation | Rwanda (2021) |
 | [AI4Boundaries](https://essd.copernicus.org/preprints/essd-2022-298/essd-2022-298.pdf) | 2022 | Field boundary detection | Sentinel-2 + aerial ortho-photo | 10m + 1m | Monthly acquisition & Yearly annotation | Europe (2019) |
-| [Seasonal Contrast](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html) | 2021 | Pre-training task | Sentinel-2 | 10m | Seasonally acquisition | Global |
-| [PROBA-V Super-Resolution](https://link.springer.com/article/10.1007/s42064-019-0059-8) | 2019 | Super-resolution | PROBA-V | 300m + 100m | Daily acquisition | Global |
+| [Seasonal Contrast](https://openaccess.thecvf.com/content/ICCV2021/html/Manas_Seasonal_Contrast_Unsupervised_Pre-Training_From_Uncurated_Remote_Sensing_Data_ICCV_2021_paper.html) | 2021 | Pre-training task | Sentinel-2 | 10m | Seasonally acquisition | Global (?) |
+| [PROBA-V Super-Resolution](https://link.springer.com/article/10.1007/s42064-019-0059-8) | 2019 | Super-resolution | PROBA-V | 300m + 100m | Daily acquisition | Global (?) |
 
 ## Citation
 The authors thank the French spatial agency (CNES) and the Brittany region for their financial support.
