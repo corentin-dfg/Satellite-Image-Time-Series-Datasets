@@ -70,7 +70,7 @@ Datasets are sorted by annotation granularity. We note that polygons annotations
 | [SICKLE](https://arxiv.org/pdf/2312.00069.pdf) | 2024 | Landsat-8 + Sentinel-1 + Sentinel-2 | 30m + 3m + 10m | Bi-monthly + 12d + weekly acquistion | 21 | India (2018-2021) |
 | [AgriSen-COG](https://www.mdpi.com/2072-4292/15/12/2980) | 2023 | Sentinel-2 | 10m | Weekly acquisition | 103 | Austria, Belgium, Spain, Denmark, Netherlands (2019-2020) |
 | [TimeMatch](https://www.sciencedirect.com/science/article/pii/S0924271622001216) | 2022 | Sentinel-2 | 10m | Weekly acquisition | 16 | Austria, Denmark, mid-west France, southern France (2017) |
-| [DENETHOR](https://openreview.net/pdf?id=uUa4jNMLjrL) | 2021 | Cloud-free fusion of images from various satellites | 3m | Daily acquisition | 10 | Germany (2018-2019) |
+| [DENETHOR](https://openreview.net/pdf?id=uUa4jNMLjrL) | 2021 | PlanetFusion | 3m | Daily acquisition | 10 | Germany (2018-2019) |
 | [EuroCrops](https://mediatum.ub.tum.de/doc/1616066/3z6cpijmuxa8qnbmyn0kjum6y.Schneider21_EPE.pdf) | 2021 | Sentinel-2 | / | Weekly acquisition | 43 | Europe (2015-2022) |
 | [TimeSen2Crop](https://ieeexplore.ieee.org/abstract/document/9408357) | 2021 | Sentinel-2 | 10m | Weekly acquisition | 16 | Austria (2017-2018) |
 | [Canadian Cropland](https://openreview.net/pdf/3b9f82b0ce8f1e195c4c20df9637afd8ed9ea339.pdf) | 2021 | Sentinel-2 | 10m | Monthly acquisition | 10 | Canada (2019) |
